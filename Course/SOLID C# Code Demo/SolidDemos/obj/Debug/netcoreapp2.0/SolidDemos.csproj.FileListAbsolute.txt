@@ -1,0 +1,11 @@
+C:\Users\krish\Github\software-engineering\05_SOLID\demos\SolidDemos\SolidDemos\bin\Debug\netcoreapp2.0\SolidDemos.deps.json
+C:\Users\krish\Github\software-engineering\05_SOLID\demos\SolidDemos\SolidDemos\bin\Debug\netcoreapp2.0\SolidDemos.runtimeconfig.json
+C:\Users\krish\Github\software-engineering\05_SOLID\demos\SolidDemos\SolidDemos\bin\Debug\netcoreapp2.0\SolidDemos.runtimeconfig.dev.json
+C:\Users\krish\Github\software-engineering\05_SOLID\demos\SolidDemos\SolidDemos\bin\Debug\netcoreapp2.0\SolidDemos.dll
+C:\Users\krish\Github\software-engineering\05_SOLID\demos\SolidDemos\SolidDemos\bin\Debug\netcoreapp2.0\SolidDemos.pdb
+C:\Users\krish\Github\software-engineering\05_SOLID\demos\SolidDemos\SolidDemos\obj\Debug\netcoreapp2.0\SolidDemos.csproj.CoreCompileInputs.cache
+C:\Users\krish\Github\software-engineering\05_SOLID\demos\SolidDemos\SolidDemos\obj\Debug\netcoreapp2.0\SolidDemos.AssemblyInfoInputs.cache
+C:\Users\krish\Github\software-engineering\05_SOLID\demos\SolidDemos\SolidDemos\obj\Debug\netcoreapp2.0\SolidDemos.AssemblyInfo.cs
+C:\Users\krish\Github\software-engineering\05_SOLID\demos\SolidDemos\SolidDemos\obj\Debug\netcoreapp2.0\SolidDemos.dll
+C:\Users\krish\Github\software-engineering\05_SOLID\demos\SolidDemos\SolidDemos\obj\Debug\netcoreapp2.0\SolidDemos.pdb
+C:\Users\krish\Github\software-engineering\05_SOLID\demos\SolidDemos\SolidDemos\obj\Debug\netcoreapp2.0\SolidDemos.csprojResolveAssemblyReference.cache

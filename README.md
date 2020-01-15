@@ -40,7 +40,7 @@ Volgende Design Patterns zijn behandeld:
   
     <img src="./images/image-20200115152349541.png" alt="contents of user-level gitconfig"  />
 
-## Staging
+### Staging
 
   - Marking the files which have been modified (or selecting ones that are about to be modified)
   - `git status` to check the current modified / added / deleted files that are not staged. `git add` or `git rm` to add or remove the file / folder.
@@ -48,28 +48,24 @@ Volgende Design Patterns zijn behandeld:
 > Use this to <u>split work into commits that relate to the same issue</u>. e.g. if you change both front- and backend files, split the modified files up into separate commits using add ./backend, committing, adding ./frontend and committing again. This makes it easier to trace issues back to the commit previous to the issue.
 
 
-## Commits
+### Commits
 There are 2 main ways to commit
   - `git commit` where the user provides a summary and a more detailed message explaining the changes to the file.
   - `git commit -m ""` where there is a short message supplied for the commitmessage
-<img src="/home/jim/Downloads/SoftwareEngineering/images/image-20200115155445899.png" alt="example of committing with a short message" style="zoom:80%;" />
+<img src="./images/image-20200115155445899.png" alt="example of committing with a short message" style="zoom:80%;" />
 > If there are files that should have been committed previously, you can use `git commit --amend` to add them to the previous commit.
 
 ##### Tagging
 Tagging a commit makes the commit easily retraceable by assign a sort of "name" for a commit along with the usual hashcode for a commit.
 - usage: `git tag -a {annotation} -m {tagmessage}`
 
-## Branching
+### Branching
 
 - checkout: 
-
   - `git checkout HEAD {file}` to reset an unstaged file back to the version that was last committed to the current branch
   - `git checkout `
-
 - reset
-
 - clean
-
 - revert
 
   

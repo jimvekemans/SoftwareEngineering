@@ -61,11 +61,8 @@ Tagging a commit makes the commit easily retraceable by assign a sort of "name" 
 
 ### Branching
 
-- View <a href="./Branching.md" text="Branching.md"/> for a complete explanation of branching (local and remote)
-
-- 
-
-  
+[Local vs remote branching explained]: Branches.md
+- View <a href="./Branching.md" text="Branching.md"/> for a complete explanation of branching (local and remote)s
 
 ### Wat moet je kennen en kunnen? 
 

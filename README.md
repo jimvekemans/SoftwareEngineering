@@ -61,12 +61,9 @@ Tagging a commit makes the commit easily retraceable by assign a sort of "name" 
 
 ### Branching
 
-- checkout: 
-  - `git checkout HEAD {file}` to reset an unstaged file back to the version that was last committed to the current branch
-  - `git checkout `
-- reset
-- clean
-- revert
+- View <a href="./Branching.md" text="Branching.md"/> for a complete explanation of branching (local and remote)
+
+- 
 
   
 

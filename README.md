@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: images
+---
+
 # Design Patterns
 
 ### Wat moet je kennen en kunnen? 
@@ -28,6 +32,23 @@ Volgende Design Patterns zijn behandeld:
 - Voorbeeldcode herwerken (refactoren) tot een (eventueel  opgelegde) Design Pattern gebruikt wordt. Bijvoorbeeld: herwerk dit  switch-statement zodat je een Command patroon gebruikt.
 
 # Git
+
+- Config
+  - system level config: `git config --system` stored in <u>/etc/gitconfig</u>
+  - user level config: `git config --global` stored in <u>~/.gitconfig</u>
+  - repository level config: `git config` stored in <u>./.git/config</u>
+  
+    ![contents of user-level gitconfig](./images/image-20200115152349541.png)
+  
+- Staging
+
+  - Marking the files which have been modified (or selecting ones that are about to be modified)
+  - `git add {filename / foldername}`
+  - USE THIS to split work into commits that relate to the same issue. e.g. if you change both front- and backend files, split the modified files up into separate commits using add ./backend, committing, adding ./frontend and committing again. This makes it easier to trace issues back to the commit previous to the issue.
+
+- Commits
+
+- Branching
 
 ### Wat moet je kennen en kunnen? 
 

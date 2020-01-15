@@ -62,9 +62,14 @@ Tagging a commit makes the commit easily retraceable by assign a sort of "name" 
 
 ### Branching
 
+<<<<<<< HEAD
 <u>View <a href="./Branching.md">Branching.md</a> for a complete explanation of local vs remote branches</u>
 
 Branches are used to create (slightly) altered / newer / better versions of the codebase. **<u>Using branches makes sure that there is a safe space to work on unstable code</u>.** Usually you would create a new branch for every new feature that gets added. The `master`-branch gets created automatically and should be used for code that is ready for production. Oftentimes, the master-branch is updated when the new version of the `develop`-branch is deemed good enough to be considered as a MVP (Minimal Viable Product). When the code of a branch is finished, it gets **<u>merged</u>** into a branch that contains a more complete version of the codebase. A merge combines two branches into one by comparing the commits of each branch. Every new / modified file of branch 1 gets compared to the same file on branch 2. If the file is only on 1 of 2 branches, then it gets merged automatically. Whenever the file is on both branches and both branches have modified the file, then the modified content is compared. When the file is modified in other places, the code is usually merged without issue BUT when there is a different version of some code, then it is up to a **reviewer** to check which version should be kept for the merged result.
+=======
+[Local vs remote branching explained]: Branches.md
+- View <a href="./Branching.md" text="Branching.md"/> for a complete explanation of branching (local and remote)s
+>>>>>>> 7fc73505fe1292bc243282283d5181f270081ce8
 
 ### Wat moet je kennen en kunnen? 
 

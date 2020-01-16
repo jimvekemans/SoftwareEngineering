@@ -108,7 +108,7 @@ When you write a class or function or library you should do it in a way that any
 
 ### **L: Liskov's Substitution Principle:** 
 
-Simply put, any time you have a sub-type of something, that subtype  should be 100% compatible with the original thing. This is usually not  an issue since a subtype is a specialized version of the more generic  thing. If you have a rectangle  class that has "width and "height" as properties and want to make a  square class, don't use "side length" as it's property. You should be able to put in a rectangle where you would normally put a square and everything should work. Instead just make "width" = "height". Alternatively: "If it looks like a duck, quacks like a duck, but needs batteries - you probably have the wrong abstraction".
+Simply put, any time you have a sub-type of something, that subtype should be 100% compatible with the original thing. This is usually not  an issue since a subtype is a specialized version of the more generic  thing. If you have a rectangle  class that has "width and "height" as properties and want to make a  square class, don't use "side length" as it's property. You should be able to put in a rectangle where you would normally put a square and everything should work. Instead just make "width" = "height". Alternatively: "If it looks like a duck, quacks like a duck, but needs batteries - you probably have the wrong abstraction".
 
 ### **I: Interface Segregation Principle:** 
 
